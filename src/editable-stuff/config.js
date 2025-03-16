@@ -6,30 +6,30 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Pootaatoo",
   middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "Fan",
+  message: " This earth is just like a super large potato. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/pootaatoo",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/pootaatoo",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/pootaatoo/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/pootaatoo/",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "https://www.twitter.com/pootaatoo/",
     },
   ],
 };
@@ -51,10 +51,10 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/pootaatoo.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Pootaatoo Fan. I’m a mysterious potato from the Earth with a little bit of a coding skill. 🌍🥔 I enjoy exploring the world of technology and problem-solving, diving into machine learning, data analysis, and software development. Whether it’s building models, optimizing algorithms, or debugging code, I’m always up for a challenge. Beyond coding, I have a curious mind that enjoys understanding how things work and how to make them better. I approach problems with logic, creativity, and a bit of potato persistence. 🥔💡 Always eager to learn, experiment, and grow, I’m here to tackle complex problems and turn ideas into reality—one line of code at a time! 🚀",
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
